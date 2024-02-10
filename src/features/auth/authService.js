@@ -2,7 +2,7 @@
 
 import axios from 'axios'
 
-const API_URL = '/api/users/'
+const API_URL = 'https://goal-backend-apis.onrender.com/api/users/'
 
 //Register user
 const register = async (userData) => {
@@ -22,7 +22,7 @@ const logout = async () => {
 
 //login user
 const login = async (userData) => {
-    const response = await axios.post(API_URL + 'login', userData)
+    const response = await axios.post("https://goal-backend-apis.onrender.com/api/users/login", userData)
 
     if(response.data) {
         localStorage.setItem('user', JSON.stringify(response.data))
