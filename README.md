@@ -1,6 +1,6 @@
 # Target Tracer (frontend code)
 
-This reposiory includes the code for the frontend part of the [Target Tracer website](https://goalapp-frontend.vercel.app/). It is present in 2 websites because it was required for the proper deployment of the website. For refernce the whole working code is present in [one repository](https://github.com/yash-raj-gupta/TargetTracer)  
+This reposiory includes the code for the frontend part of the [Target Tracer website](https://goalapp-frontend.vercel.app/). It is present in 2 repositories because it was required for the proper deployment of the website. For refernce the whole working code is present in [one repository](https://github.com/yash-raj-gupta/TargetTracer)  
 
 ## Website Screenshots
   
